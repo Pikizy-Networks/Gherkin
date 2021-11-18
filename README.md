@@ -1,4 +1,5 @@
 Teste de Automação para QA - CI&T
+
 Olá! Bom dia, boa tarde ou boa noite!
 
 Este é um desafio criado para a nossa seleção de uma pessoa Engenheira de Software que irá atuar na role de QA.
