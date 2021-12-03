@@ -1,4 +1,4 @@
-//Controle de Paginação =  False//
+///Controle de Paginação =  False//
 Funcionalidade: Busca no Banco de Questões
 Cenário: Controle de Paginação de busca não aparecendo
 Dado que navego para a página de busca do banco de questões
