@@ -1,5 +1,5 @@
 
-//Controle de Paginação =  True//
+///Controle de Paginação =  True//
 Funcionalidade: Busca no Banco de Questões
 Cenário: Controle de Paginação de busca sendo retornado
 Dado que navego para a página de busca do banco de questões
