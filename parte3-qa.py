@@ -35,7 +35,7 @@ class Escuta(AbstractEventListener):
     def before_close(self, webdriver):
             mensagem_de_erro = envolocro_browser.find_element_by_class_name('container').find_element_by_tag_name('div').text
             print(f'mensagem de erro: {mensagem_de_erro}')
-            assert mensagem_de_erro == 'ERROR! Logging In Failed.', 'Mensagem de erro não confere!'
+            assert mensagem_de_erro == 'ERROR! Logging In Failed.', 'Mensagem de erro não confere!!'
 
 def esperar_mensagem(webdriver):
     
