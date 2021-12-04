@@ -33,7 +33,7 @@ Com essa informação em mãos, vamos para a codificação desse cenário de tes
 	
 Terceira parte:
 
-Por fim, você terá que criar um cenário novo que não foi descrito anteriormente. A ideia aqui é realmente ver como você faria um cenário do zero, criando o Gherkin e depois fazendo a automação dele. Abuse e use do que foi feito anteriormente para te ajudar!
+Por fim, você terá que criar um cenário novo que não foi descrito anteriormente. A ideia aqui é realmente ver como você faria um cenário do zero, criando o Gherkin e depois fazendo a automação dele. Abuse e use do que foi feito anteriormente para te orientar!
 
 -- Criamos o cenário de login para o site, que retorna dois resultados esperados, se o usuário existe ou não, e implementamos no Opentdb -- 
 
